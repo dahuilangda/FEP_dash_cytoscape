@@ -7,9 +7,11 @@
 1. conda install -c conda-forge dash_cytoscape
 2. conda install -c conda-forge rdkit
 3. conda install -c conda-forge -c omnia perses
+4. download and install cytoscape from https://cytoscape.org/
 
 ## Dataset
 https://github.com/choderalab/qmlify/tree/master/experiments/mm_data
 
 ## Example
-python run.py
+1. open cytoscape
+2. python run.py
