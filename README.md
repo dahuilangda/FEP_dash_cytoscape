@@ -9,3 +9,6 @@
 
 ## Dataset
 https://github.com/choderalab/qmlify/tree/master/experiments/mm_data
+
+## Example
+python run.py
