@@ -13,5 +13,5 @@
 https://github.com/choderalab/qmlify/tree/master/experiments/mm_data
 
 ## Example
-1. open cytoscape
+1. open cytoscape for callback
 2. python run.py
